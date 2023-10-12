@@ -71,7 +71,7 @@ Survey of watermarking for computer vision models
 
 - 2019 **Robust Watermarking of Neural Network with Exponential Weighting** (Ryota Namba) University of Tsukuba
   - paper: https://dl.acm.org/doi/pdf/10.1145/3321705.3329808 (ASIACCS 2019)
-  - code:  
+  - code: https://github.com/dunky11/exponential-weighting-watermarking
 
 - 2019 **How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN** (Zheng Li) Shandong University
   - paper: https://dl.acm.org/doi/pdf/10.1145/3359789.3359801 (ACSAC 2019)
