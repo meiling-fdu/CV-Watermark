@@ -1,5 +1,5 @@
 # CV-Watermark
-Survey of watermarking for computer vision models
+Survey of watermarking for computer vision models ([A Brief Chinese Survey](https://blog.csdn.net/qq_36332660/article/details/133649470))
 
 ## White-box Watermarking
 
@@ -54,15 +54,15 @@ Survey of watermarking for computer vision models
 ## Black-box Watermarking
 
 - 2018 **Protecting Intellectual Property of Deep Neural Networks with Watermarking** (Zhang) IBM Research
-  - paper: https://dl.acm.org/doi/pdf/10.1145/3196494.3196550 (AsiaCCS 2018)
+  - paper: https://dl.acm.org/doi/pdf/10.1145/3196494.3196550 (AsiaCCS 2018) [Crack it in Chinese](https://blog.csdn.net/qq_36332660/article/details/133688057)
   - code:
 
 - 2018 **Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring** (Yossi Adi) Bar-Ilan University
-  - paper: https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-adi.pdf (USENIX 2018)
+  - paper: https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-adi.pdf (USENIX 2018) [Crack it in Chinese](https://blog.csdn.net/qq_36332660/article/details/133774427)
   - code: https://github.com/adiyoss/WatermarkNN
 
 - 2018 **Watermarking Deep Neural Networks for Embedded Systems**（Jia Guo）University of California, Los Angeles
-  - paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8587745 (ICCAD 2018)
+  - paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8587745 (ICCAD 2018) [Crack it in Chinese](https://blog.csdn.net/qq_36332660/article/details/133768299)
   - code:
 
 - 2019 **BlackMarks: Blackbox Multibit Watermarking for Deep Neural Networks** (Huili Chen) University of California San Diego
@@ -70,11 +70,11 @@ Survey of watermarking for computer vision models
   - code: 
 
 - 2019 **Robust Watermarking of Neural Network with Exponential Weighting** (Ryota Namba) University of Tsukuba
-  - paper: https://dl.acm.org/doi/pdf/10.1145/3321705.3329808 (ASIACCS 2019)
+  - paper: https://dl.acm.org/doi/pdf/10.1145/3321705.3329808 (ASIACCS 2019) [Crack it in Chinese](https://blog.csdn.net/qq_36332660/article/details/133791064)
   - code: https://github.com/dunky11/exponential-weighting-watermarking
 
 - 2019 **How to Prove Your Model Belongs to You: A Blind-Watermark based Framework to Protect Intellectual Property of DNN** (Zheng Li) Shandong University
-  - paper: https://dl.acm.org/doi/pdf/10.1145/3359789.3359801 (ACSAC 2019)
+  - paper: https://dl.acm.org/doi/pdf/10.1145/3359789.3359801 (ACSAC 2019) [Crack it in Chinese](https://blog.csdn.net/qq_36332660/article/details/133805704)
   - code: https://github.com/zhenglisec/Blind-Watermark-for-DNN
 
 - 2019 **AFA: Adversarial fingerprinting authentication for deep neural networks** (Jingjing Zhao) Hubei University
